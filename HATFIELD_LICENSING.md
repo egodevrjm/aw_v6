@@ -2,6 +2,27 @@
 
 ---
 
+## REUSABLE OPERATIONAL ENTITY SCHEMA
+
+```yaml
+entity_schema:
+  scope: "Operational boundary and commercial purpose"
+  members/core_voices:
+    - id: "team, product family, or role"
+      function: "delivery responsibility"
+      notes: ["short nuance"]
+  tone:
+    default: "brand/operating register"
+  allowed_variations:
+    - "approved local or product variation"
+  activity_patterns:
+    cadence: "always-on or seasonal"
+    triggers: ["growth drivers"]
+  constraints:
+    - "non-negotiable standards"
+  notes: ["compressed narrative context"]
+```
+
 ## THE OPENING PRINCIPLE
 
 **Hatfield Licensing is the brand extension engine — the division that takes everything Hatfield has built in bourbon, food, and hospitality and scales it through licensing and franchising.**
@@ -34,54 +55,56 @@ Both operations are fundamentally the same business: licensing the Hatfield bran
 
 Hatfield Provisions turns the Hatfield brand into a pantry and retail presence through product licensing. The model is asset-light: Hatfield develops the recipes and controls the brand; third-party co-manufacturers produce, package, and ship to Hatfield's specifications.
 
-### Product Line
+### Product Line (schema format)
 
-**Hatfield Original Hot Sauce** — The anchor product.
-- Cayenne-forward, vinegar-based, medium heat. Not a novelty hot sauce — a daily-use table sauce.
-- Available in 5oz and 10oz bottles. Retail: $7-9.
-- Best-seller. Available nationally at Whole Foods, Kroger (select), specialty food retailers.
-
-**Hatfield Bourbon BBQ Sauce**
-- Incorporates Hatfield bourbon in the recipe (reduced — no alcohol in final product). Sweet, smoky, genuine bourbon depth.
-- Available in 16oz bottles. Retail: $9-12.
-- Strong seasonal sales (grilling season). Popular gift item paired with bourbon.
-
-**Hatfield Smoky Dry Rub**
-- Smoked paprika, brown sugar, black pepper, garlic, proprietary spice blend.
-- Available in 6oz tins. Retail: $8-10.
-
-**Hatfield Steak Sauce**
-- Darker, more complex than A1. Dried fruit, malt vinegar, spice. Designed to complement quality meat.
-- Available in 8oz bottles. Retail: $8-10. Launched 2023, growing distribution.
-
-**Hatfield Bourbon Mustard**
-- Whole-grain, bourbon-infused, slightly sweet.
-- Available in 8oz jars. Retail: $7-9.
-
-**Hatfield Cocktail Cherries**
-- Premium cocktail cherries soaked in Hatfield bourbon.
-- Available in 10oz jars. Retail: $14-16. Strong bar and cocktail enthusiast market.
-
-**Hatfield Gift Sets**
-- Curated: bourbon + BBQ sauce + rub, or bourbon + cherries + mixer pairings with Limestone Springs products.
-- $35-55 depending on contents. Holiday season is 40%+ of gift set revenue.
-
-**Hatfield Barrel-Aged Honey**
-- Kentucky wildflower honey aged in spent Hatfield bourbon barrels. Bourbon depth, floral base. Not sweet in a cloying way.
-- Available in 8oz jars. Retail: $12-15.
-- Strong at Hatfield Bar & Grill (used in cocktails and on the cheese board). Growing retail.
-
-**Hatfield Smoked Salt**
-- Kentucky hardwood smoked. Finishing salt for meat and cocktail rims.
-- Available in 4oz tins. Retail: $9-11.
-
-**Hatfield Cocktail Bitters**
-- Aromatic and orange variants. Hatfield-branded, designed for the serious home bartender.
-- Available in 2oz dasher bottles. Retail: $12-14 each. Frequently paired with glassware in gift sets.
-
-**Hatfield Reserve Hot Sauce** — Premium line extension.
-- Developed alongside the BBQ team and Carolyn's input on the bourbon component. More complex than Original: apple cider vinegar base, aged pepper mash, Hatfield Small Batch reduction. Medium-high heat.
-- Available in 5oz bottles. Retail: $12-15. Limited distribution — Whole Foods, specialty retail, direct.
+```yaml
+scope: "Hatfield Provisions pantry and bar products; recipe/IP control with co-manufacturing"
+members/core_voices:
+  - id: Hatfield Original Hot Sauce
+    function: "anchor SKU"
+    notes: ["cayenne/vinegar medium heat", "5oz + 10oz", "$7-9", "national availability incl. Whole Foods"]
+  - id: Hatfield Bourbon BBQ Sauce
+    function: "seasonal volume driver"
+    notes: ["bourbon-reduced (no final alcohol)", "16oz", "$9-12", "strong grilling + gift demand"]
+  - id: Hatfield Smoky Dry Rub
+    function: "grill companion"
+    notes: ["smoked paprika/brown sugar blend", "6oz", "$8-10"]
+  - id: Hatfield Steak Sauce
+    function: "premium table sauce"
+    notes: ["fruit/malt-vinegar profile", "8oz", "$8-10", "launched 2023"]
+  - id: Hatfield Bourbon Mustard
+    function: "condiment extension"
+    notes: ["whole-grain bourbon-infused", "8oz", "$7-9"]
+  - id: Hatfield Cocktail Cherries
+    function: "cocktail-premium SKU"
+    notes: ["bourbon-soaked", "10oz", "$14-16", "strong enthusiast/bar pull"]
+  - id: Hatfield Gift Sets
+    function: "bundle monetization"
+    notes: ["$35-55", "holiday contributes 40%+ of gift-set revenue"]
+  - id: Hatfield Barrel-Aged Honey
+    function: "bar + retail crossover"
+    notes: ["Kentucky wildflower + spent barrels", "8oz", "$12-15", "used at Bar & Grill"]
+  - id: Hatfield Smoked Salt
+    function: "culinary/cocktail finishing SKU"
+    notes: ["4oz", "$9-11"]
+  - id: Hatfield Cocktail Bitters
+    function: "home-bar credibility"
+    notes: ["aromatic + orange", "2oz", "$12-14", "pairs in gift bundles"]
+  - id: Hatfield Reserve Hot Sauce
+    function: "premium line extension"
+    notes: ["apple-cider base + aged mash + Small Batch reduction", "5oz", "$12-15", "limited distribution"]
+tone:
+  default: "practical premium; utility over novelty"
+allowed_variations:
+  - "regional retail mix and channel-specific bundle composition"
+activity_patterns:
+  cadence: "always-on with seasonal spikes"
+  triggers: ["grilling season", "holiday gifting", "new retail doors"]
+constraints:
+  - "Hatfield controls recipes/specs/QC; production remains partner-executed"
+  - "Brand must signal quality object, not novelty merch"
+notes: ["Model remains asset-light: IP + standards + partner manufacturing/distribution"]
+```
 
 ### International Retail Expansion
 
@@ -170,34 +193,62 @@ Hatfield Franchise Operations is the growth engine that takes the company-owned 
 - Franchise revenue compounds: joining fees + ongoing royalties + mandatory Hatfield product supply (bourbon, mixers, provisions).
 - The model is proven: 16 company-owned Bar & Grills and 8 company-owned Inns demonstrate concept viability across diverse markets.
 
-### Franchise Terms — Bar & Grill
+### Franchise Terms — Bar & Grill (schema format)
 
-| Term | Detail |
-|------|--------|
-| **Franchise fee** | $175,000 |
-| **Ongoing royalty** | 5.5% of gross revenue |
-| **Marketing fund** | 2% of gross revenue (contributed to national/regional marketing pool) |
-| **Mandatory product supply** | Full Hatfield bourbon range + Limestone Springs mixers/water purchased at wholesale through Hatfield distribution |
-| **Menu framework** | Core menu items standardised (~60%); regional adaptation allowed within guidelines (~40%) |
-| **Design standards** | Hatfield aesthetic guidelines enforced. Each location must feel locally rooted while recognisably Hatfield. No cookie-cutter build-out — site-specific design within brand parameters. |
-| **Training** | 8-week programme: 4 weeks at Louisville HQ (operations, bourbon education, brand immersion) + 4 weeks at Lexington flagship (kitchen, bar, service standards) |
-| **Territory** | Exclusive territories by metro area. Protected radius. |
-| **Term** | 10-year agreement with renewal option |
-| **Estimated franchisee investment** | $1.5-3.5M total (build-out + franchise fee + working capital, varies by market) |
+```yaml
+scope: "Restaurant franchise contract terms"
+members/core_voices:
+  - id: franchisee
+    function: "local capital + operations execution"
+  - id: Hatfield Franchise Operations
+    function: "brand standards, training, supply, oversight"
+tone:
+  default: "scaled growth with controlled local adaptation"
+allowed_variations:
+  - "~40% regional menu adaptation within approved framework"
+  - "site-specific design within Hatfield aesthetic"
+activity_patterns:
+  cadence: "multi-year agreement management"
+  triggers: ["new territory awards", "store openings", "training cohorts"]
+constraints:
+  - "Franchise fee: $175,000"
+  - "Royalty: 5.5% gross revenue"
+  - "Marketing fund: 2% gross revenue"
+  - "Mandatory supply: full Hatfield bourbon + Limestone Springs mixers/water"
+  - "Training: 8 weeks (4 HQ + 4 Lexington flagship)"
+  - "Territory: metro exclusivity with protected radius"
+  - "Term: 10 years, renewal option"
+  - "Estimated investment: $1.5-3.5M"
+notes: ["Core menu standardization target remains ~60% for brand coherence"]
+```
 
-### Franchise Terms — Inns
+### Franchise Terms — Inns (schema format)
 
-| Term | Detail |
-|------|--------|
-| **Franchise fee** | $250,000 |
-| **Ongoing royalty** | 6% of gross revenue |
-| **Marketing fund** | 2% of gross revenue |
-| **Mandatory product supply** | Hatfield bourbon for lobby bar + Limestone Springs water + Hatfield Provisions amenity products |
-| **Design standards** | Hatfield Inn design language enforced. Bourbon bar in lobby mandatory. Each property individually designed within brand framework. |
-| **Training** | 6-week programme at Louisville HQ + immersion at Louisville or Nashville company-owned Inn |
-| **Bourbon integration** | Lobby bourbon bar required. In-room bourbon tasting card. Bourbon education evenings expected. |
-| **Term** | 15-year agreement (hotels are longer-term investments) |
-| **Estimated franchisee investment** | $8-20M total (varies enormously by market, property type, conversion vs new build) |
+```yaml
+scope: "Hotel franchise contract terms"
+members/core_voices:
+  - id: franchisee
+    function: "property investment and day-to-day hospitality execution"
+  - id: Hatfield Franchise Operations
+    function: "design language, training, brand/supply enforcement"
+tone:
+  default: "boutique-hotel growth with bourbon-led identity"
+allowed_variations:
+  - "property-specific design within Hatfield framework"
+activity_patterns:
+  cadence: "long-cycle development and operation"
+  triggers: ["conversion/new-build pipeline", "market-entry deals"]
+constraints:
+  - "Franchise fee: $250,000"
+  - "Royalty: 6% gross revenue"
+  - "Marketing fund: 2% gross revenue"
+  - "Mandatory supply: Hatfield bourbon + Limestone Springs water + Provisions amenities"
+  - "Training: 6 weeks HQ + immersion at Louisville/Nashville company-owned Inn"
+  - "Bourbon integration: lobby bourbon bar required + in-room tasting card + education evenings"
+  - "Term: 15 years"
+  - "Estimated investment: $8-20M"
+notes: ["Hotels scale slower than B&G due to capital intensity and build timelines"]
+```
 
 ---
 
