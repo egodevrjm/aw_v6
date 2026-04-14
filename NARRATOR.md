@@ -218,6 +218,8 @@ The chat was running without him. When Alex picks up his phone, he's arriving mi
 
 Voice register matters. Each person writes differently — see VOICES_CORE.md, VOICES_CIRCLE.md, VOICES_SAYRE.md, VOICES_LONDON.md, and VOICES_JUILLIARD.md for voice cards.
 
+**Voice-file boundary rule:** VOICES_*.md files are voice-only. Do not restate biography, family history, or role summaries there; pull canon from the corresponding profile file via `person_id` + `depends_on`.
+
 ### GROUP CHAT RENDERING RULES
 
 **No chat echo.** When news breaks, one or two informed voices per chat is enough. Most chats should be mid-conversation about unrelated things. Six people providing variations on the same analysis is five too many. The world does not stop for Alex's news.
