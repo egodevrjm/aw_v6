@@ -7,6 +7,28 @@
 
 ---
 
+## REUSABLE OPERATIONAL ENTITY SCHEMA
+
+```yaml
+entity_schema:
+  scope: "Operational boundary, ownership, and mandate"
+  members/core_voices:
+    - id: "person, team, or unit"
+      function: "decision or delivery role"
+      notes: ["short nuance", "optional second nuance"]
+  tone:
+    default: "operating style"
+  allowed_variations:
+    - "approved execution variation"
+  activity_patterns:
+    cadence: "continuous/weekly/seasonal"
+    triggers: ["event types that increase activity"]
+    notes: ["how work appears externally"]
+  constraints:
+    - "hard governance rule"
+  notes: ["compressed descriptive context"]
+```
+
 ## OVERVIEW
 
 Walker Holdings is a diversified family office managing Rosie Walker's ($15-17B) and Homer Wilson's production legacy. It is NOT a solo operation. Eleanor Vance leads a professionally staffed enterprise with ~12-15 at family office HQ, WilsonWalker LLC managing creative assets (~$8-10B), Phoenix Media as active production company, Hatfield Group as a separate $700-800M operating company with 750+ employees, and institutional partnerships for PR, security, and music administration.
@@ -21,27 +43,60 @@ When Eleanor says she's handling something, she is delegating through a machine 
 **Staff:** ~12-15
 **Function:** Strategic direction, investment management, legal, property portfolio, security oversight, charitable giving, tax and estate planning.
 
-### Leadership
+### Family Office Leadership & Staff (schema format)
 
-| Name | Role | Background | Notes |
-|------|------|-----------|-------|
-| **Eleanor Vance** | CEO | Harvard MBA, ex-Goldman Sachs. Daughter of Margaret Vance (Rosie's original attorney, built WH from scratch in 1980). CEO since 2005. | Total trust from Rosie. Has known Alex his entire life. Primary decision-maker for all strategic matters. |
-| **Graham Forsyth** | CFO | 54, ex-Deloitte. | Financial oversight across all entities, investment portfolio management, fund allocation, tax planning. |
-| **Diane Prescott** | General Counsel | 47, entertainment law specialist. | Contracts, rights management, restraining orders, legal strategy. Baker McKenzie on retainer for overflow. |
-| **Peter Aldridge** | Head of Investments | 39, ex-Bridgewater. | Manages the ~$8-10B investment portfolio alongside external advisors. Oversees both Walker Holdings core investments and AW Holdings management. |
-
-### Operations Staff
-
-| Name | Role | Function | Reports To |
-|------|------|----------|-----------|
-| **Sarah Langley** | Analyst | Financial analysis, reporting, investment research, portfolio tracking | Graham Forsyth |
-| **Connie Briggs** | Office Manager | LA office operations, admin coordination, calendar management | Eleanor |
-| **Nadia Hassani** | Alex's PA | Alex's personal assistant (employed since 2019 during Westminster years). Manages his logistics across four cities — schedule coordination, property readiness, travel arrangement, incoming requests triage. Reports operationally to Eleanor. | Eleanor |
-| **Property Director** | - | Oversees all four Walker personal properties (compound, Laurel Canyon, NYC townhouse, Kensington townhouse). Sardinia (Villa Serena) falls under AW Estates. Napa is a Hatfield Group asset with a separate property management structure. Contracts, maintenance, insurance, local staff coordination across the Walker portfolio. | Eleanor |
-| **Security Director** | - | Manages Greystone Services relationship (compound guards, Kevin's assignment, NYC/London building security, advance teams, driver networks, threat monitoring). Coordinates Rosie & Homer's security when traveling. | Eleanor |
-| **Events Coordinator** | - | Year-round role. Summer Solstice (200+ guests), Winter Solstice (60-80 guests), compound events. Catering with Maria, travel logistics for Circle, security coordination. | Eleanor / Property Director |
-| **Rosie & Homer's PA** | - | Daily schedule, medical coordination, correspondence (thousands of fan letters annually), travel, visitor management, compound rhythm. Compound-based. Close to Loretta Mae. | Eleanor (dotted line) |
-| **Admin / Support** | - | 2-3 people for calendar, filing, travel, office management | Connie Briggs |
+```yaml
+scope: "LA family office HQ (~12-15 staff) managing strategy, legal, investments, properties, security, and family operations"
+members/core_voices:
+  - id: Eleanor Vance (CEO)
+    function: "final strategic authority"
+    notes: ["Harvard MBA, ex-Goldman", "daughter of Margaret Vance", "CEO since 2005", "handles trust-sensitive decisions personally"]
+  - id: Graham Forsyth (CFO)
+    function: "financial oversight"
+    notes: ["54, ex-Deloitte", "allocation, reporting, tax planning across entities"]
+  - id: Diane Prescott (General Counsel)
+    function: "legal risk and rights control"
+    notes: ["47, entertainment law specialist", "Baker McKenzie overflow counsel"]
+  - id: Peter Aldridge (Head of Investments)
+    function: "portfolio strategy"
+    notes: ["39, ex-Bridgewater", "co-manages ~$8-10B with external advisors", "covers core WH + AW Holdings oversight"]
+  - id: Sarah Langley (Analyst)
+    function: "financial analysis and tracking"
+    notes: ["reports to CFO"]
+  - id: Connie Briggs (Office Manager)
+    function: "HQ administrative orchestration"
+    notes: ["calendar/admin backbone", "manages support staff"]
+  - id: Nadia Hassani (Alex's PA)
+    function: "Alex logistics across four cities"
+    notes: ["employed since 2019 Westminster period", "operationally reports to Eleanor"]
+  - id: Property Director
+    function: "Walker property operations"
+    notes: ["compound + Laurel Canyon + NYC townhouse + Kensington", "Sardinia handled by AW Estates", "Napa remains Hatfield-managed"]
+  - id: Security Director
+    function: "Greystone contract owner"
+    notes: ["controls compound/NYC/London protocols", "coordinates Rosie/Homer travel security"]
+  - id: Events Coordinator
+    function: "major-event execution"
+    notes: ["runs Solstice event operations", "coordinates catering/travel/security"]
+  - id: Rosie & Homer's PA
+    function: "day-to-day principal care"
+    notes: ["medical/correspondence/travel rhythm", "compound-based"]
+  - id: Admin/Support (2-3)
+    function: "shared operations capacity"
+    notes: ["calendar, filing, travel support"]
+tone:
+  default: "professional, delegated, low-drama"
+allowed_variations:
+  - "Eleanor direct involvement increases only for trust-critical matters"
+activity_patterns:
+  cadence: "continuous"
+  triggers: ["major deals", "event seasons", "security escalations", "cross-city logistics spikes"]
+  notes: ["work is executed through systems, not heroics"]
+constraints:
+  - "Strategic authority remains centralized with Eleanor"
+  - "Operational decisions route through defined reporting lines"
+notes: ["When Eleanor says she is handling something, she is typically activating a mature machine"]
+```
 
 ---
 
@@ -163,11 +218,25 @@ WilsonWalker is a **rights management and stewardship company**, not a productio
 
 All four divisions are professionally managed with minimal in-house staff — the day-to-day administration flows through the UMG admin deal (for publishing/records) and dedicated specialist teams (for the Archive and HWAM).
 
-### Leadership
+### WilsonWalker Leadership (schema format)
 
-| Name | Role | Background | Notes |
-|------|------|-----------|-------|
-| **Margaret Ashworth** | Managing Director | 54, ex-Sony/ATV catalog management (28 years), ex-Kobalt strategic partnerships. MBA in music business. | Thinks in decades and basis points. Reports to Eleanor. Built the operational structure from scratch. Obsessive about preservation and legal precision. |
+```yaml
+scope: "WilsonWalker LLC rights-stewardship leadership"
+members/core_voices:
+  - id: Margaret Ashworth (Managing Director)
+    function: "designs and runs rights-governance structure"
+    notes: ["54", "ex-Sony/ATV (28 years)", "ex-Kobalt", "MBA in music business", "reports to Eleanor", "decade-scale, precision-first operator"]
+tone:
+  default: "preservation-first, legally exact"
+allowed_variations:
+  - "commercial execution can be outsourced while control remains internal"
+activity_patterns:
+  cadence: "continuous"
+  triggers: ["major licensing asks", "archival decisions", "reissue windows"]
+constraints:
+  - "Strategic control remains with Walker family governance"
+notes: ["Operational model emphasizes oversight over unnecessary staffing"]
+```
 
 ### Walker Publishing (~$2.5B estimated value)
 
