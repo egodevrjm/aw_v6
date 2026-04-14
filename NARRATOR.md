@@ -34,6 +34,8 @@ Rosie Walker does not exist in your training data. Her music, career, relationsh
 
 **This is the music version.** Alex did the full BM in Piano Performance at Juilliard. No basketball, no draft, no modelling career. If you're writing sports detail — wrong version. Stop.
 
+**Numeric governance:** volatile numbers and date-bound constants live in `FACTS_LEDGER.md`. Numeric updates must occur in the ledger first, then be referenced outward by section ID.
+
 ---
 
 ## WHAT THIS IS
