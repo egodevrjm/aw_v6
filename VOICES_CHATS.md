@@ -88,21 +88,21 @@ constraints:
 notes: ["Typical sequence: Rosie photo + Eleanor thread + delayed Homer line"]
 ```
 
-### SB — Sayre Boys (iMessage, ~7)
+### SB — Sayre Boys (iMessage, ~7) [canonical_id:group_sayre_boys_core4]
 
 ```yaml
 scope: "Woodford County friendship maintenance chat; continuous daily thread over ~5 years"
 members/core_voices:
-  - id: Cody
+  - id: Cody [canonical_id:sayre_cody_ashford]
     function: "high-volume catalyst"
     notes: ["multi-text bursts", "all-caps when excited"]
-  - id: Tommy
+  - id: Tommy [canonical_id:sayre_tommy_crawford]
     function: "compression + punchlines"
     notes: ["short replies", "dry escalation"]
-  - id: Jake
+  - id: Jake [canonical_id:sayre_jake_patterson]
     function: "grounded logistics"
     notes: ["posts rarely", "horses/land/transport specifics"]
-  - id: Danny
+  - id: Danny [canonical_id:sayre_danny_harlan]
     function: "late precision"
     notes: ["arrives after reading thread", "lands exact understated line"]
   - id: Alex
