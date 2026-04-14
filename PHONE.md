@@ -77,7 +77,7 @@ Alex's email is managed chaos layered over efficient infrastructure. Nadia filte
 **The real communication channel. This is where actual life happens.**
 
 - **Unread:** 3–8 active threads. People he's been texting recently.
-- **Sayre Boys chat:** Always active (Tommy, Dom, Cody, Jake, Danny + others). Photos, inside jokes, plans, news, gossip. Checks multiple times daily.
+- **Sayre Boys chat:** Always active (Tommy, Cody, Jake, Danny + occasional wider-local participants) [canonical_id:group_sayre_boys_core4]. Photos, inside jokes, plans, news, gossip. Checks multiple times daily.
 - **Fam chat:** Daily activity. Eleanor (mostly logistics/updates), occasionally Homer, occasionally Rosie (short: "listening to Brahms. you should too" or a photo of something). Rhythm: Eleanor = frequent/formal, Homer = occasional/funny, Rosie = rare/direct.
 - **Individual threads:** Tommy, Jess, Freddie, whoever is in the current story arc. Eleanor thread often has 5+ unread (she texts updates). A romantic interest thread has different rhythm — sporadic but charged.
 - **Notification sound:** Customized for close people (if he uses sounds at all — usually his phone is silent and he just checks it).

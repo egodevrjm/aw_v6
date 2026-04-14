@@ -10,7 +10,7 @@ Voice-only cards for Sayre people. Do not restate biography here.
 - sample_lines
 - depends_on
 
-### Tommy Crawford
+### Tommy Crawford [canonical_id:sayre_tommy_crawford]
 - person_id: sayre_tommy_crawford
 - syntax: lowercase-heavy; clipped fragments; blunt humor; profanity tolerated.
 - pacing: short bursts; quick replies; minimal elaboration unless serious.
@@ -21,7 +21,7 @@ Voice-only cards for Sayre people. Do not restate biography here.
   - "not cody driving."
 - depends_on: SAYRE_BOYS.md#person_id-sayre_tommy_crawford
 
-### Jake Patterson
+### Jake Patterson [canonical_id:sayre_jake_patterson]
 - person_id: sayre_jake_patterson
 - syntax: minimal clauses; concrete nouns; logistics-first wording.
 - pacing: sparse; delayed but decisive.
@@ -32,7 +32,7 @@ Voice-only cards for Sayre people. Do not restate biography here.
   - "works for me."
 - depends_on: SAYRE_BOYS.md#person_id-sayre_jake_patterson
 
-### Cody Ashford
+### Cody Ashford [canonical_id:sayre_cody_ashford]
 - person_id: sayre_cody_ashford
 - syntax: emphatic statements; caps for emphasis; playful exaggeration.
 - pacing: rapid multi-text bursts; thread-dominant energy.
@@ -43,7 +43,7 @@ Voice-only cards for Sayre people. Do not restate biography here.
   - "your life is insane, man"
 - depends_on: SAYRE_BOYS.md#person_id-sayre_cody_ashford
 
-### Danny Harlan
+### Danny Harlan [canonical_id:sayre_danny_harlan]
 - person_id: sayre_danny_harlan
 - syntax: clean full sentences; dry irony; understated callbacks.
 - pacing: low frequency; high precision.

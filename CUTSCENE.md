@@ -109,7 +109,7 @@ The most useful CUT SCENE territory. See full roster below.
 ### 🏇 THE WOODFORD COUNTY PARENTS
 **Platform:** iMessage thread | **Size:** ~8-10
 
-**Members (rough):** Jim and Darlene Crawford (Tommy's parents) · Brent and Lydia Cahill (Jake's parents) · Dr. Anne Harlan and Roy Harlan (Danny's parents) · Warren and Trish Ashford (Cody's parents) · + 2-3 other Sayre School parent families
+**Members (rough):** Jim and Darlene Crawford (Tommy's parents) · Brent and Lydia Patterson (Jake's parents) [canonical_id:sayre_jake_patterson] · Dr. Anne Harlan and Roy Harlan (Danny's parents) · Warren and Trish Ashford (Cody's parents) · + 2-3 other Sayre School parent families
 
 **What it is:** The parents of Alex's closest friends. People who have known Alex since kindergarten, watched him grow up, fed him dinner, driven him places. Jim Crawford in particular is a father figure. These are not starstruck people — they watched Stevie Nicks drink coffee at the compound and went home for dinner.
 

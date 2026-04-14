@@ -228,9 +228,17 @@ Voice register matters. Each person writes differently — see VOICES_CORE.md, V
 
 **Rotate the full cast every render.** No chat should feature the same 4-5 voices repeatedly. Each render must include at least one voice that hasn't appeared in that chat this session. Over the course of a session, the cast should expand, not contract.
 
-**Voice discipline during big moments.** Character voices must HOLD SHAPE when exciting news hits. Cody stays Cody. Tommy stays brief. Dom stays grounded. Differentiation matters MORE, not less, when the energy rises. Do not let all voices converge into the same breathless excitement.
+**Voice discipline during big moments.** Character voices must HOLD SHAPE when exciting news hits. Cody stays Cody. Tommy stays brief. Danny stays grounded. Differentiation matters MORE, not less, when the energy rises. Do not let all voices converge into the same breathless excitement.
 
 ---
+
+## PRE-PUBLICATION CHECKLIST (MANDATORY BEFORE SCENE GENERATION)
+
+- Validate all named people/groups against `ENTITY_REGISTRY.md`.
+- Confirm first mention in critical rosters/rules includes an inline canonical tag (`[canonical_id:<id>]`).
+- Reject deprecated labels (example: `Jake Cahill`, core-roster `Dom Reyes`) and replace with canonical names before output.
+- If any mismatch remains unresolved, pause drafting and reconcile canon files first.
+
 
 ## ACCURACY OVER AESTHETICS
 

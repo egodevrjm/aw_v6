@@ -53,7 +53,7 @@ Retrieval policy is defined in `RETRIEVAL_CONTRACT.md`; use this index as the fi
 | `CIRCLE.md` | The Phoenix Hollow Circle: Stevie Nicks, Dolly Parton, Elton John, Paul McCartney, Joni Mitchell, Brandi Carlile, Beyoncé, etc. | Any scene involving Circle members / Solstice / compound visitors |
 | `GODPARENTS.md` | Donatella Versace ("Nella"), Stella McCartney, Elton John, Chris Martin. God-siblings: Apple, Moses, Zachary, Elijah | Any scene with godparents / fashion/style scenes involving Nella or Stella |
 | `DAWSONS.md` | The Dawson family — Alex's biological father's family. Reconnection complexity, current status | Any scene involving Alex's biological family |
-| `SAYRE_BOYS.md` | Cody Ashford, Dom Reyes, Jake Patterson, Danny Harlan — Kentucky crew from Sayre School, wealthy, grounded | Any Woodford County scene with local friends |
+| `SAYRE_BOYS.md` | Tommy Crawford, Cody Ashford, Jake Patterson, Danny Harlan — Kentucky core from Sayre School, wealthy, grounded [canonical_id:group_sayre_boys_core4] | Any Woodford County scene with local friends |
 | `LONDON_LOT.md` | Freddie Ashworth, Jess Okonkwo, Cosima Hicks, Hugo Manners, Jonathan Dawson, Lucas Ashby, Cara, Raye, Stormzy, Central Cee, etc. — old money + fashion/music/creative London circle (~50-60 people) | Any London scene with social life / UK social scenes |
 | `NEW_YORK_LOT.md` | Nora Yoon, Marcus Delacroix, Henry Cabot, Sam Okafor, Timothée Chalamet, Zoë Kravitz, Hadids, etc. — Juilliard peers + Zero Bond crowd + NYC-based famous people (~40-50 people) | Any NYC scene with social life / Juilliard peers / Manhattan social scenes |
 | `LA_LOT.md` | Kaia Gerber, Maya Hawke, Jacob Elordi, Emma Chamberlain, Sabrina Carpenter, etc. — Legacy kids + industry creatives + LA entertainment world | Any LA scene with social life / Laurel Canyon / industry social scenes |
@@ -67,7 +67,7 @@ Retrieval policy is defined in `RETRIEVAL_CONTRACT.md`; use this index as the fi
 |------|-----|
 | `VOICES_CORE.md` | Alex, Rosie, Homer, Eleanor, Tommy — characters in nearly every session |
 | `VOICES_CIRCLE.md` | All Phoenix Hollow Circle members (Stevie, Dolly, Elton, Paul, Joni, Brandi, Beyoncé, etc.) |
-| `VOICES_SAYRE.md` | Kentucky crew voice cards (Cody, Dom, Jake, Danny) |
+| `VOICES_SAYRE.md` | Kentucky core voice cards (Tommy, Cody, Jake, Danny) [canonical_id:group_sayre_boys_core4] |
 | `VOICES_LONDON.md` | London Lot voice cards (Freddie, Hugo, Cosima, Lucas, Jonathan, Iris, Lila, Rufus, Raye, Tom Holland) |
 | `VOICES_JUILLIARD.md` | Nora Yoon, Marcus Delacroix, Derrick Washington, Sasha Volkov, Jin Park, plus faculty (Marlowe, Osei, Whitfield) |
 | `VOICES_CHATS.md` | All 10 active group chats — rosters, dynamics, rendering rules, cast rotation protocol |

@@ -11,7 +11,7 @@ This file is a **normalized membership map** that complements `VOICES_CHATS.md` 
 ## Chat Code Key
 
 - `FAM` = Family
-- `SB` = Sayre Boys
+- `SB` = Sayre Boys [canonical_id:group_sayre_boys_core4]
 - `LL` = London Lot
 - `WB` = Westminster Boys
 - `NYL` = New York Lot
@@ -43,7 +43,6 @@ This file is a **normalized membership map** that complements `VOICES_CHATS.md` 
 | Cody Ashford | Sayre | SB | C | Highest SB volume |
 | Jake Patterson | Sayre | SB | C | Sparse, practical |
 | Danny Harlan | Sayre | SB | C | Late-thread precision |
-| Dom Reyes | Sayre | SB | P | Listed in Sayre profiles; include if active |
 | Freddie Ashworth | London | LL, WB | C | Shared LL/WB overlap |
 | Hugo Manners | London | LL, WB | C | Shared LL/WB overlap |
 | Cosima Hicks | London | LL | C | Core LL voice |
@@ -345,7 +344,6 @@ This section intentionally pushes into **hundreds of names** spanning famous peo
 | Jake Patterson | old-school | SB | C |
 | Danny Harlan | old-school | SB | C |
 | Tommy Crawford | old-school | SB | C |
-| Dom Reyes | old-school | SB | P |
 | Alex Wilson | core | FAM, SB, LL, WB, NYL, LA, SH, LT, PH, DC | C |
 | Rosie Walker | core-family | FAM, PH | C |
 | Homer Wilson | core-family | FAM, PH | C |
