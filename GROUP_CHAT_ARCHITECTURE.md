@@ -11,8 +11,15 @@
 3. **Circle bleed:** Members from one social circle appear in unrelated chats.
 4. **“Famous-only” output:** Only celebrity messages appear, reducing realism.
 5. **No session memory:** Consecutive renders show the same speakers repeatedly.
+6. **Biography bleed into voice files:** Chat/voice docs accumulate repeated bio blocks instead of staying style-only.
 
 ---
+
+## THE VOICE-ONLY RULE
+
+- `VOICES_*.md` files are for speaking style only: syntax, pacing, taboo topics, sample lines, plus `person_id` and `depends_on`.
+- Biography, family context, role, and status must live in canonical profile files (e.g., `SAYRE_BOYS.md`, `LONDON_LOT.md`, `NEW_YORK_LOT.md`, `CIRCLE.md`).
+- Do not duplicate biography into voice files during edits or generation.
 
 ## OPERATING MODEL: TWO-LAYER CHAT ENGINE
 
