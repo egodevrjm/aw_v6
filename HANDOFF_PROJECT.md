@@ -1,3 +1,21 @@
+ACTIVE_RUNTIME_SUMMARY
+```yaml
+doc: HANDOFF_PROJECT.md
+version: 1
+runtime_first: true
+session_date: 2026-04-09
+doc_type: project_handoff
+priority_scan:
+  - runtime_boot_context
+  - next_task_scope
+  - carry_forward_principles
+source_last_updated: "Session 1 (project date: Thursday, April 9, 2026)"
+knowledge_files: 48
+next_task: "expand_hatfield_and_friends"
+runtime_generated_on: 2026-04-14
+```
+
+ARCHIVE_APPENDIX
 > **What this is:** Project build handoff — not a story session handoff. Captures what was built in the previous session and exactly what the next session should do. Load this into the new Claude Chat before starting work.
 
 ---

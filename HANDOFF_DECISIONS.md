@@ -1,3 +1,21 @@
+ACTIVE_RUNTIME_SUMMARY
+```yaml
+doc: HANDOFF_DECISIONS.md
+version: 1
+runtime_first: true
+session_date: 2026-04-09
+doc_type: architecture_decisions
+priority_scan:
+  - binding_architecture
+  - binding_character_world
+  - open_questions
+source_last_updated: "Session 1 (project date: Thursday, April 9, 2026)"
+open_questions: 4
+binding_decisions: 18
+runtime_generated_on: 2026-04-14
+```
+
+ARCHIVE_APPENDIX
 > **What this is:** Architectural decisions made during the v5 build. These are binding choices — carry them forward. Add new decisions from each subsequent build session.
 
 ---

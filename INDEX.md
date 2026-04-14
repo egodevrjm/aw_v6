@@ -6,7 +6,19 @@
 
 ## HOW TO USE THIS INDEX
 
-Retrieval policy is defined in `RETRIEVAL_CONTRACT.md`; use this index as the file directory and routing map.
+Retrieval policy is defined in `RETRIEVAL_CONTRACT.md`; use this index as the file directory and routing map. For handoffs, route to each file's `ACTIVE_RUNTIME_SUMMARY` first, then `ARCHIVE_APPENDIX` for full-history deep dives.
+
+---
+
+## HANDOFF RUNTIME RETRIEVAL (LOAD ORDER)
+
+For any handoff file, read `ACTIVE_RUNTIME_SUMMARY` first for compact runtime state. Use `ARCHIVE_APPENDIX` only for deep historical context or if the runtime summary flags uncertainty.
+
+| File | Runtime-first section | Archive/deep dive section |
+|------|-----------------------|---------------------------|
+| `HANDOFF_PROJECT.md` | `ACTIVE_RUNTIME_SUMMARY` | `ARCHIVE_APPENDIX` |
+| `HANDOFF_DECISIONS.md` | `ACTIVE_RUNTIME_SUMMARY` | `ARCHIVE_APPENDIX` |
+| `HANDOFF_CHAT_HIGHLIGHTS.md` | `ACTIVE_RUNTIME_SUMMARY` | `ARCHIVE_APPENDIX` |
 
 ---
 

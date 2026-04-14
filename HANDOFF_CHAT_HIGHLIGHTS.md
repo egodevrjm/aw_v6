@@ -1,3 +1,20 @@
+ACTIVE_RUNTIME_SUMMARY
+```yaml
+doc: HANDOFF_CHAT_HIGHLIGHTS.md
+version: 1
+runtime_first: true
+session_date: 2026-04-09
+doc_type: session_highlights
+priority_scan:
+  - repeat_error_prevention
+  - design_principles
+  - information_asymmetry
+source_last_updated: "Session 1 (project date: Thursday, April 9, 2026)"
+corrections: 6
+runtime_generated_on: 2026-04-14
+```
+
+ARCHIVE_APPENDIX
 > **What this is:** Key exchanges, corrections Ryan made during the session, and design principles established through dialogue. Prevents the next Claude from repeating errors. Append each session.
 
 ---
