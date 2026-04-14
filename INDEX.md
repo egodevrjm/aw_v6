@@ -6,10 +6,7 @@
 
 ## HOW TO USE THIS INDEX
 
-1. Identify the scene context (location, characters present, topic/activity)
-2. Find the matching files below
-3. Retrieve those files before writing prose
-4. Always retrieve: the location file + any character files for people in the scene
+Retrieval policy is defined in `RETRIEVAL_CONTRACT.md`; use this index as the file directory and routing map.
 
 ---
 
@@ -158,6 +155,9 @@
 ---
 
 ## QUICK SCENE RETRIEVAL GUIDE
+
+Reference mapping only; normative retrieval/precedence rules live in `RETRIEVAL_CONTRACT.md`.
+
 
 | Scene context | Always retrieve | Also retrieve |
 |--------------|----------------|--------------|
