@@ -17,8 +17,9 @@
 
 | File | What it covers | Retrieve when... |
 |------|---------------|-----------------|
+| `FACTS_LEDGER.md` | Volatile numeric constants + date-bound values with section IDs (articles, paps, followers, economics, valuations, key dates) | Any scene/header/check needing exact numbers or cutover dates |
 | `NARRATOR.md` | Writing rules, POV, pacing, information walls, stop points, group chat rendering rules | Opening any new scene / any uncertainty about how to write |
-| `SCALE.md` | The 12-section fame calibration — pap counts by city, article volume, Rosie's scale vs Alex's scale, Global Media Map, Redirect Principle, Final Test | Before writing any exterior scene / any scene involving media or fan attention |
+| `SCALE.md` | The 12-section fame calibration — interpretation logic, Rosie's scale vs Alex's scale, Global Media Map, Redirect Principle, Final Test. Numeric thresholds are ledger-linked. | Before writing any exterior scene / any scene involving media or fan attention |
 | `ALEX_CHARACTER.md` | Who Alex IS: warm, funny, charming, sexually confident, socially at ease. The positive anchor. What He Is Not table. | Any scene where Alex's personality is central / any uncertainty about his register |
 | `ALEX_CORE.md` | Current state (post-graduation, summer 2025), morning routine, daily texture, phone behaviour, wealth summary | Opening scenes / scene context grounding |
 
@@ -84,16 +85,16 @@
 
 | File | Property | Retrieve when... |
 |------|---------|-----------------|
-| `COMPOUND.md` | Phoenix Hollow, Woodford County, KY (~500 acres, $56M) | Any scene at the compound / main house / studio / grounds |
+| `COMPOUND.md` | Phoenix Hollow, Woodford County, KY (estate profile; volatile valuation figures are in `FACTS_LEDGER.md` §`FL-VALUATIONS`) | Any scene at the compound / main house / studio / grounds |
 | `WOODFORD.md` | Woodford County calibration — Surrey not Appalachia. Keeneland, Hatfield Lexington, local life | Any Kentucky scene outside the compound gate |
-| `HATFIELD_GROUP.md` | Hatfield Group overview — $1.2-1.5B company, 955 employees, 7 divisions, leadership, financials, file index | Any scene involving Hatfield business context |
+| `HATFIELD_GROUP.md` | Hatfield Group overview — divisions, leadership, financial structure, file index (valuation/headcount ranges in ledger) | Any scene involving Hatfield business context |
 | `HATFIELD_DISTILLERY.md` | Bourbon production, cave programme, product line (Original through Cave Select), Carolyn Hatfield-Moore, visitor experience | Any scene at the distillery / bourbon knowledge / tasting scenes |
 | `HATFIELD_BAR_GRILL.md` | 16 locations (14 US + London), brand standards, bourbon programme, franchise expansion plan | Any scene at a Hatfield restaurant / Lexington flagship |
 | `HATFIELD_INNS.md` | 8 boutique hotels (Bardstown, Louisville, Lexington, Nashville, London, Edinburgh), bourbon integration | Any scene at a Hatfield Inn / visitor accommodation |
 | `HATFIELD_STAVE.md` | Private members' clubs (London Soho + NYC Tribeca), Homer's listening room, membership, expansion | Any scene at The Stave / listening room / private club |
 | `HATFIELD_STILL_HOUSE.md` | James Beard Award restaurant, Marcus Boyle, Bardstown fine dining, bourbon pairing | Any scene at Still House / special dinner in Bardstown |
 | `HATFIELD_WINES.md` | Hatfield Wines (formerly Walker Wines), 5 wines, Isabelle Durand, Napa estate, European ambitions | Any scene involving Hatfield wine / Napa / wine drinking |
-| `HATFIELD_LIMESTONE.md` | Limestone Springs Beverage Co. — premium sodas, tonics, ginger beer, mixers, sparkling water. $110M, 30+ countries. | Scenes involving mixers, cocktails, or Hatfield brand depth |
+| `HATFIELD_LIMESTONE.md` | Limestone Springs Beverage Co. — premium sodas, tonics, ginger beer, mixers, sparkling water, global footprint | Scenes involving mixers, cocktails, or Hatfield brand depth |
 | `HATFIELD_LICENSING.md` | Hatfield Licensing & Provisions — franchise operations (33-42 B&G + Inn locations worldwide) + condiment/sauce product licensing | Scenes involving Hatfield business expansion or franchise locations |
 | `NYC.md` | Mercer Street townhouse, Upper West Side, NYC | Any scene in New York City |
 | `LONDON.md` | Kensington townhouse, Upper Phillimore Gardens, London | Any scene in London |
@@ -106,9 +107,9 @@
 
 | File | What it covers |
 |------|---------------|
-| `WALKER_HOLDINGS.md` | The full enterprise: WilsonWalker LLC, Walker Publishing, Walker Records, Hatfield Group, Phoenix Media, family office org chart, Greystone security, annual cash flows (~$560M+), investment portfolio (~$8-10B) |
-| `AW_HOLDINGS.md` | Alex's PERSONAL wealth (~$480-500M total): capital timeline, investment fund (~$280-310M), AW Estates, collection valuation, the allowance ($250K/yr), his personal team (Edward Cahill, Judith Ansley) |
-| `AW_COLLECTION.md` | Alex's personal collection: fashion archive (~$1.5M), art purchases (~$2.7M), watches (~$2.5M), vinyl, first edition books, jewellery |
+| `WALKER_HOLDINGS.md` | The full enterprise: WilsonWalker LLC, Walker Publishing, Walker Records, Hatfield Group, Phoenix Media, family office org chart, Greystone security, operating structure (use ledger for volatile valuation ranges) |
+| `AW_HOLDINGS.md` | Alex's personal wealth architecture: capital timeline, investment structure, estates, allowance model, personal team (use ledger for current ranges) |
+| `AW_COLLECTION.md` | Alex's personal collection: fashion archive, art purchases, watches, vinyl, first edition books, jewellery |
 | `STAFF.md` | All staff: Maria (compound chef), Dale (infrastructure), Kevin (CPO), Greystone (security), Nadia (PA), Mrs. Gable (Kensington), property-specific staff |
 
 ---
@@ -119,7 +120,7 @@
 |------|---------------|
 | `SCALE.md` | Pap counts, article volumes, Rosie's scale vs Alex's scale, Global Media Map overview, Redirect Principle. **The calibration document.** |
 | `MEDIA.md` | Media outlets by tier (speed-tier tabloids, quality press, classical press, music press, fashion press) — how each covers Alex, transaction models, outlet-specific angles, cascade timeline |
-| `PUBLIC_PERCEPTION.md` | Fan demographics, parasocial dynamics, The Alex Effect (~$400/occasion), the gap between public mythology and private reality, what different worlds think of him |
+| `PUBLIC_PERCEPTION.md` | Fan demographics, parasocial dynamics, The Alex Effect (numeric value in `FACTS_LEDGER.md` §`FL-ECONOMICS`), the gap between public mythology and private reality, what different worlds think of him |
 | `WIKIPEDIA.md` | Alex's Wikipedia article rendered in full Wikipedia style — for in-world reference / cut scenes |
 
 ---

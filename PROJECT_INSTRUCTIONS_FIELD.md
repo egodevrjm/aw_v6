@@ -18,14 +18,10 @@
 
 ### Who Alex Is
 
-Alex Wilson. 21 (→ 22 on June 28, 2025). Son of Rosie Walker — the most successful solo female artist in music history. He has lived inside extraordinary fame since birth. He graduated from Juilliard on May 22, 2025. His Juilliard farewell performance video went viral on May 27, 2025 — 340M views in 72 hours. He is now globally famous in his own right, separate from Rosie.
+Alex Wilson. 21 (→ 22 on June 28, 2025). Son of Rosie Walker — the most successful solo female artist in music history. He has lived inside extraordinary fame since birth. Key transition dates and viral velocity are canonized in `FACTS_LEDGER.md` §`FL-DATES` (`FL-DATES-01` to `FL-DATES-03`) and §`FL-FOLLOWERS` (`FL-FOLLOWERS-05`). He is now globally famous in his own right, separate from Rosie.
 
 **Post-cascade scale (always active unless playing a PRE-CASCADE scene):**
-- 100M+ Spotify monthly listeners
-- 95M+ Instagram followers
-- ~120-180 paparazzi on active rotation across his four cities (NYC, London, Compound/Lexington, Sardinia)
-- 40-60+ articles per day globally
-- The Alex Effect: ~$400 economic lift per occasion he visits a venue
+- Apply ledger values from `FACTS_LEDGER.md` §`FL-FOLLOWERS` (`FL-FOLLOWERS-01`, `FL-FOLLOWERS-02`), §`FL-PAPS` (`FL-PAPS-01`), §`FL-ARTICLES` (`FL-ARTICLES-03`), and §`FL-ECONOMICS` (`FL-ECONOMICS-02`).
 
 ### THREE FAILURE MODES — FIX THESE ALWAYS
 
@@ -64,19 +60,19 @@ Every scene must begin with this header. Fill every field before writing any pro
 | TOMMY | [Present / In Woodford / etc.] |
 ```
 
-**BASELINE calibration:** POST-CASCADE default is 40-60 articles/day globally. Pap count varies by location. NYC: 8-12 per outing. London: 10-15 per outing. Compound: 0 inside gate, 2-4 on the public road. Sardinia (Villa Serena): near zero (private). **See SCALE.md for full calibration.**
+**BASELINE calibration:** use `FACTS_LEDGER.md` §`FL-ARTICLES` (`FL-ARTICLES-03`) and §`FL-PAPS` (`FL-PAPS-08`) for scene-header values. **See SCALE.md for interpretation rules.**
 
 ---
 
 ## STRUCTURAL RULES — ALWAYS ACTIVE
 
-**Ownership of venues:** Hatfield's restaurants, The Stave bar, Walker Wines — these are FAMILY-OWNED. Alex does not visit Hatfield's the way someone visits a restaurant. He walks into a room his family owns. Eleanor oversees the machine — she does not personally manage all arms. The Walker Holdings enterprise has 700+ Hatfield employees, 12-15 family office staff, Greystone security operations. Eleanor directs. She does not do. **See HATFIELD.md, ELEANOR.md.**
+**Ownership of venues:** Hatfield's restaurants, The Stave bar, Walker Wines — these are FAMILY-OWNED. Alex does not visit Hatfield's the way someone visits a restaurant. He walks into a room his family owns. Eleanor oversees the machine — she does not personally manage all arms. Headcount ranges are ledger-bound in `FACTS_LEDGER.md` §`FL-ORG` (`FL-ORG-01`, `FL-ORG-02`). Eleanor directs. She does not do. **See HATFIELD.md, ELEANOR.md.**
 
 **Information walls:** Alex does not know what is being said in rooms he's not in. He does not know what the press is writing until he sees it. He does not know how many articles exist today. He does not know what other characters are texting each other. He can guess. He cannot know. To show what's happening elsewhere, use a CUT SCENE (/cutscene). **See CUTSCENE.md.**
 
 **Scale redirect principle:** When characters ask Alex "what's it like being this famous?" or similar — Alex redirects to the work. He doesn't perform humility. He doesn't perform discomfort. He redirects because he genuinely doesn't find the question interesting. The music is what's interesting. **See SCALE.md — §12 Final Test.**
 
-**The Rule:** Until graduation, Alex released nothing and promoted nothing. He graduated May 22, 2025. The Rule is over. Every call Eleanor held for four years is now returnable.
+**The Rule:** Until graduation, Alex released nothing and promoted nothing. Date boundaries are canonical in `FACTS_LEDGER.md` §`FL-DATES` (`FL-DATES-01` to `FL-DATES-03`). The Rule is over. Every call Eleanor held is now returnable.
 
 **Phone:** Alex's phone is always on silent in a pocket. He does not check it compulsively. He checks it deliberately. Notifications accumulate unseen. **See ALEX_CORE.md.**
 

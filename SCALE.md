@@ -10,7 +10,7 @@
 
 Rosie Walker is not famous. Famous is Beyoncé. Famous is Taylor Swift. Rosie Walker is **beyond the ceiling of fame as a concept.**
 
-She is the greatest musical artist who has ever lived — bigger than Elvis, the Beatles, and Michael Jackson **combined.** 3.2 billion streams annually in 2025. A 14-year-old in rural Brazil has her on their playlist genuinely, not ironically. A 10-year-old in Seoul knows her face. She is not nostalgia. She is not "iconic for her generation." She is **current, alive, and the most famous human being on earth.**
+She is the greatest musical artist who has ever lived — bigger than Elvis, the Beatles, and Michael Jackson **combined.** For current scale values, use `FACTS_LEDGER.md` §`FL-FOLLOWERS` (especially `FL-FOLLOWERS-01`). A 14-year-old in rural Brazil has her on their playlist genuinely, not ironically. A 10-year-old in Seoul knows her face. She is not nostalgia. She is not "iconic for her generation." She is **current, alive, and the most famous human being on earth.**
 
 She has given the press NOTHING since 1980. No interviews. No new music. No performances. That vacuum is the engine of everything.
 
@@ -44,25 +44,20 @@ Because neither of them was the only content pipeline into someone more famous t
 
 ### The Baseline
 
-On a day when nothing happens — no sighting, no post, no event — **120–180 articles globally** across 22–30 active language markets. This is the floor. Not the ceiling. Not during a news cycle. Every day. The machine runs whether he feeds it or not. Major markets produce 15–40 articles daily; secondary and tertiary markets add another 80–120. The compound of global media appetite is relentless.
+On quiet days and surge days alike, treat the media machine as always-on and transnational. Use `FACTS_LEDGER.md` §`FL-ARTICLES` (`FL-ARTICLES-01` to `FL-ARTICLES-03`) for exact article-volume ranges and shorthand presets.
 
-- **Post-Cascade Explosion (May 27, 2025 onward):** In the first two weeks following the Juilliard video, the baseline evaporates. **300–500 articles per day** across all markets. Six continents. Fourteen to twenty languages running hot simultaneously. This is not anomaly — this is ten years of suppressed commercial demand hitting at once.
-- **300+ daily articles for three consecutive days** after the Juilliard video alone. Cascading effect compounds.
-- **Doorstep images:** normally $55K+ per set. **Post-cascade: $75K+ per premium set.** Walking out of his front door in London is worth more than most photographers earn in a year. Premium sets (best light, clearest shots, highest-tier publications) command top dollar. Walking out of his front door wearing something on-trend or near a major event is worth what used to be a six-month photography contract. Agencies don't gamble at this rate. They invest.
-- **5 websites track his hookups.** Companion identification within hours. Name, Instagram, occupation, connection — surfaced before the news cycle turns.
-- **Fan-made Alex content (TikTok, Instagram Reels, YouTube compilations):** **2–4 billion views per month across all fan accounts collectively.** Not his own official channels — fan accounts, outfit edits, thirst trap compilations, "Alex laughing for 10 minutes," breakdowns of his clothing choices, fan-created music videos set to his performances, comparison reels, reaction compilations. The scale of parasocial content generation dwarfs his official presence. He is the most-remixed human on the internet.
-- **@alexwilson Instagram growth (post-Juilliard):** The account grows **~500K followers in the week after the video goes live.** Organic, sustained, across all geographies. Every day of that week adds 60–80K. A follower acquisition curve that would make brand management teams salivate.
+- Post-cascade acceleration and week-one shock behavior should be calibrated from `FACTS_LEDGER.md` §`FL-ARTICLES` + §`FL-DATES` (`FL-DATES-02`).
+- Doorstep economics and monetization pressure belong to `FACTS_LEDGER.md` §`FL-ECONOMICS` (`FL-ECONOMICS-01`).
+- Companion-identification velocity and fan remix ecology remain active constants; quantitative values live in `FACTS_LEDGER.md` §`FL-FOLLOWERS` (`FL-FOLLOWERS-04`) and §`FL-ECONOMICS`.
+- Instagram velocity and post-video growth numbers are ledger-bound: `FACTS_LEDGER.md` §`FL-FOLLOWERS` (`FL-FOLLOWERS-03`).
 
 ### The Infrastructure
 
 **This is not new.** This has been his reality since he was eight years old. Multiple agencies — Getty, Splash, Backgrid, MEGA, GC Images — with **standing assignments.** Not freelancers hoping. Standing bounties. Salaried rotations. Movement patterns mapped. Routes known.
 
-- **NYC:** Permanent rotating pack, **12–20 photographers on a normal morning.** More after sightings or events. **Surge capacity: 40+ photographers when major news breaks.** Standing shifts outside both the Manhattan townhouse and known meeting locations. Camp chairs. Coffee. Paid rotation. Multiple agencies splitting twelve-hour blocks. They wait just in case — and they're almost always there when he's there.
-  - When he's not in New York: **14–18 photographers stationed outside the NYC townhouse**, not in New York, with no plans to return. Hoping. Paid to hope.
-  - Sightings within 24 hours trigger escalation. Casual dining gets 8 photographers. Dinner with industry figures gets 12+. Arrival at a venue triggers immediate notifications to freelancers on standby across the five boroughs.
-- **London:** Pap infrastructure established when he was 16 at Westminster. Never stood down. Intensified during RAM year. Estimated 8–15 standing operatives with known hotels, restaurant patterns, and club protocols.
-- **Airports:** Absolute circus. Advance tips, multiple crews, controlled chaos. International arrivals trigger coordinated continental positioning.
-- **Woodford County:** Lower density but NOT zero. Photographers have been around Versailles and near Sayre since childhood. **7–12 paps on the compound approach roads** post-video. Plus 2–3 in Versailles proper, plus rotating teams in nearby towns. Kentucky used to be quieter. Telephoto lens from a public road is legal. The compound gate is the only line.
+- City-by-city paparazzi density, surge capacity, and location shorthand are maintained in `FACTS_LEDGER.md` §`FL-PAPS` (`FL-PAPS-01` through `FL-PAPS-08`).
+- Airports remain a coordinated circus: advance tips, multi-crew positioning, controlled chaos.
+- Woodford remains lower-density but never zero; the legal/public-road boundary logic is unchanged.
 
 ### What This Means in Practice
 
@@ -83,7 +78,7 @@ Alex is completely, genuinely unbothered by all of it. Not performing calm — a
 
 ## 4. ROSIE'S RULE — THE DECADE-LONG EMBARGO
 
-**The most important structural rule in the story. Every scene before May 22, 2025 must honor this. Every scene after relies on its expiration.**
+**The most important structural rule in the story. Every scene before the `FL-DATES-01` cutover must honor this. Every scene after relies on its expiration (see `FACTS_LEDGER.md` §`FL-DATES`).**
 
 When Alex was approximately 10–11 years old, Rosie established a rule that would define his childhood and adolescence entirely: **no deliberate publicity, no campaigns, no endorsements, no brand deals, no professional engagements of any kind until AFTER he graduates.**
 
@@ -106,7 +101,7 @@ The houses respected it. Not because they wanted to. Because it was Rosie's rule
 
 ### What They Were Waiting For
 
-The financial projections on an unrestricted Alex Wilson were staggering. Conservative estimates: $30–50M annually across fashion, brand, classical music, and media partnerships — all unpaid, all unaccounted for, all flowing through fan channels and paparazzi infrastructure.
+The financial projections on an unrestricted Alex Wilson were staggering. For the canonical annual range, use `FACTS_LEDGER.md` §`FL-ECONOMICS` (`FL-ECONOMICS-03`). The interpretation remains the same: all of it was unpaid, unaccounted for, and already flowing through fan channels and paparazzi infrastructure.
 
 - **Fashion houses** that had been sending clothes for 6+ years without ever getting a campaign in return had entire proposal suites in their filing cabinets, updated quarterly.
 - **Modelling agencies** had Alex on their whiteboards since he was 15. Elite agencies, with boards up and decks prepped. Waiting.
@@ -121,9 +116,7 @@ This was never explained publicly. No interviews, no statements, no PR managemen
 
 ### The Expiration
 
-The rule expired on **May 22, 2025** — his graduation day.
-
-The story opens 5 days later: **May 27, 2025.**
+The key dates for expiration and story-open are canonicalized in `FACTS_LEDGER.md` §`FL-DATES` (`FL-DATES-01` to `FL-DATES-03`).
 
 Eleanor's phone hasn't stopped ringing since commencement ended.
 
@@ -139,7 +132,7 @@ Alex's response to all of it? "They'll wait or they won't. Let me know if someth
 
 The machine is going to run at maximum scale for the first time in his life, and he's taking meetings once a week, delegating the rest, and planning to go to Glastonbury.
 
-**Test:** If the scene is pre-graduation (before May 22, 2025), there has been NO deliberate publicity, NO campaigns, NO professional engagements. The apparatus exists, the interest is absolute, but Rosie's rule held. If post-graduation, the dam has broken. The baseline media chaos is now compounded by ten years of pent-up commercial demand hitting simultaneously.
+**Test:** If the scene is pre-graduation (before `FL-DATES-01`), there has been NO deliberate publicity, NO campaigns, NO professional engagements. The apparatus exists, the interest is absolute, but Rosie's rule held. If post-graduation, the dam has broken. The baseline media chaos is now compounded by ten years of pent-up commercial demand hitting simultaneously.
 
 ---
 
@@ -151,11 +144,11 @@ The machine is going to run at maximum scale for the first time in his life, and
 
 **What Eleanor, SSML, Peter Aldridge, and Nadia have been doing:** Managing a decade of suppressed demand. The calls didn't start at graduation — they've been coming for years. Periodic, serious, informed courtship from agencies, brands, fashion houses, and management firms that tracked Alex's commercial impact and maintained proposals in drawers, decks updated annually, standing offers waiting for a green light. Every brand has been running the numbers on what Alex Wilson wearing their product is worth (millions annually in uncompensated commercial impact, tracked by fan accounts that ID every item within hours). None of it was ever paid, arranged, or sanctioned. Eleanor fielded these as routine workload.
 
-**What graduation changed (May 22):** The Rule expired. The periodic inquiries became urgent and daily. Everyone who had been waiting for years knew the date. Pitches drafted over years were sent. Meeting requests stacked. Eleanor can no longer say "after he graduates" and hang up. That's the only thing that's structurally different — but it's the thing that matters.
+**What graduation changed (see `FACTS_LEDGER.md` §`FL-DATES` / `FL-DATES-01`):** The Rule expired. The periodic inquiries became urgent and daily. Everyone who had been waiting for years knew the date. Pitches drafted over years were sent. Meeting requests stacked. Eleanor can no longer say "after he graduates" and hang up. That's the only thing that's structurally different — but it's the thing that matters.
 
-**What the video added (May 27):** A new dimension and a public proof point. Before the video, the calls were fashion, modelling, brand ambassadorships, commercial representation — the same lanes that had been building for a decade. The video showed the world a once-in-a-generation concert-level performance, and the classical music industry entered the picture — Deutsche Grammophon, Carnegie Hall, concert management, recording contracts. This is genuinely new territory. And the video made the private industry mobilisation public — the quiet calls became a cascade. But it's an additional lane on an already packed highway, not the first car on an empty road.
+**What the video added (see `FACTS_LEDGER.md` §`FL-DATES` / `FL-DATES-02`):** A new dimension and a public proof point. Before the video, the calls were fashion, modelling, brand ambassadorships, commercial representation — the same lanes that had been building for a decade. The video showed the world a once-in-a-generation concert-level performance, and the classical music industry entered the picture — Deutsche Grammophon, Carnegie Hall, concert management, recording contracts. This is genuinely new territory. And the video made the private industry mobilisation public — the quiet calls became a cascade. But it's an additional lane on an already packed highway, not the first car on an empty road.
 
-**The representation gap is real but not urgent in Alex's mind:** He has no manager, no agent, no publicist. He's never needed them because Rosie's rule meant there was nothing to manage. Eleanor ran everything through Walker Holdings. Now the rule is over and Eleanor needs him to build the infrastructure that replaces her as de facto gatekeeper. Alex doesn't feel the urgency because he doesn't need any of it — he has $16M distributed, a $250K annual allowance, properties on three continents, and no financial motivation whatsoever.
+**The representation gap is real but not urgent in Alex's mind:** He has no manager, no agent, no publicist. He's never needed them because Rosie's rule meant there was nothing to manage. Eleanor ran everything through Walker Holdings. Now the rule is over and Eleanor needs him to build the infrastructure that replaces her as de facto gatekeeper. Alex doesn't feel the urgency because he doesn't need any of it — he has ledger-tracked financial insulation (see `FACTS_LEDGER.md` §`FL-VALUATIONS` / `FL-VALUATIONS-04` and `FL-VALUATIONS-05`), properties on three continents, and no financial motivation whatsoever.
 
 ---
 
@@ -202,7 +195,7 @@ These are the errors Claude's training data pulls toward. Each one has been obse
 
 ## 8. THE REDIRECT PRINCIPLE
 
-The ONLY thing the world hasn't fully seen is the level. Face, name, beauty, wealth, connections — all known for 21 years. The public knows he plays piano (Juilliard, RAM, public recitals, phone clips). What they haven't had is a high-quality recording showing a once-in-a-generation concert-level performance, or a serious critical assessment. The video and the Denk piece provide both. "Revelation" means the world re-examines what it already knew, not that it discovers someone new. And the commercial trigger is the Rule expiring (May 22), not the video (May 27).
+The ONLY thing the world hasn't fully seen is the level. Face, name, beauty, wealth, connections — all known for 21 years. The public knows he plays piano (Juilliard, RAM, public recitals, phone clips). What they haven't had is a high-quality recording showing a once-in-a-generation concert-level performance, or a serious critical assessment. The video and the Denk piece provide both. "Revelation" means the world re-examines what it already knew, not that it discovers someone new. And the commercial trigger is the Rule expiring at `FL-DATES-01`, not the video at `FL-DATES-02` (see `FACTS_LEDGER.md` §`FL-DATES`).
 
 | Discovery (WRONG) | Redirect (RIGHT) |
 |---|---|
@@ -310,15 +303,15 @@ Before submitting any scene, run these:
 1. **Rosie scale:** Is Rosie written as the most famous human alive, or as "a famous grandmother"?
 2. **Beauty:** Did every new character physically react to Alex? Was the reaction involuntary and specific?
 3. **Fame:** Is Alex written at Diana/William+ scale, or at "celebrity" scale?
-4. **Paps:** Are cameras accounted for in every non-compound scene? Are the photographers already there? (Yes — they were there before him.) How many agencies are present? (Multiple. Rotating shifts. Professional gear.) Post-cascade, are article counts and photographer presence ramped up to 300–500 articles daily, 40+ photographers on major sightings?
+4. **Paps:** Are cameras accounted for in every non-compound scene? Are the photographers already there? (Yes — they were there before him.) How many agencies are present? (Multiple. Rotating shifts. Professional gear.) Validate numeric thresholds in `FACTS_LEDGER.md` §`FL-ARTICLES` (`FL-ARTICLES-02`) and §`FL-PAPS` (`FL-PAPS-03`).
 5. **Companion cost:** Is anyone near him becoming a story? Any new face gets identified within hours. Five websites. Every time.
-6. **Industry:** Is the pressure framed as 11+ years of pent-up demand, or as a new discovery?
+6. **Industry:** Is the pressure framed as decade-plus pent-up demand, or as a new discovery?
 7. **Alex's response:** Is he fast, decisive, delegating, and unbothered — or slow, uncertain, and asking for time?
 8. **Kevin:** Is Kevin present outside the compound? (He is the MINIMUM. Eleanor quietly arranges more. Alex pretends not to notice.)
 9. **Redirect:** Is this a redirect of existing attention, or a discovery narrative?
-10. **Phoenix Hollow:** Is the compound written as a $56M estate on 500 private acres with a Per Se-trained chef, Homer's professional studio, four guest cottages, and a natural amphitheatre — or as a "farmhouse," "country place," or "simple Kentucky home"?
+10. **Phoenix Hollow:** Is the compound written at full established scale (estate infrastructure, professional studio, staffing depth) rather than as a "farmhouse," "country place," or "simple Kentucky home"? For volatile value points, use `FACTS_LEDGER.md` §`FL-VALUATIONS`.
 11. **Chalamet test:** Could this scene describe Timothée Chalamet? If yes — catastrophic underscale. Chalamet gets recognised. Alex has industrial surveillance.
-12. **Rosie's Rule:** Have I enforced it correctly? If the scene is set before graduation (before May 22, 2025), there has been NO deliberate publicity, NO campaigns, NO professional endorsements. The apparatus exists, the commercial interest is absolute, but the rule held. If post-graduation, the dam has broken — ten years of pent-up commercial demand is hitting simultaneously. Is the baseline chaos ramped up accordingly? Are Eleanor's phone lines burning? Are agencies activating proposals that have been in drawers for a decade?
+12. **Rosie's Rule:** Have I enforced it correctly? For date cutovers, use `FACTS_LEDGER.md` §`FL-DATES` (`FL-DATES-01` to `FL-DATES-03`). If pre-graduation: NO deliberate publicity/campaigns/endorsements. If post-graduation: the dam is broken and suppressed demand is hitting simultaneously. Are Eleanor's lines burning? Are dormant proposals activating?
 
 If any answer is wrong, rewrite before the scene goes out.
 
