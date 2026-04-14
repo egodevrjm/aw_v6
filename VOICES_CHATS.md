@@ -4,6 +4,10 @@
 
 ---
 
+**Apply `GROUP_CHAT_ARCHITECTURE.md` before rendering any chat to enforce anti-conflation rules and speaker rotation.**
+
+**Use `FRIENDS_CONTACTS_MATRIX.md` as the membership authority when there is any uncertainty about who belongs in which chat.**
+
 ## CRITICAL: READ CAST ROTATION PROTOCOL FIRST
 
 Before rendering any group chat, read the CAST ROTATION PROTOCOL in this section. It solves the recurring problem of the same 4-5 voices appearing every time. Every chat has 50-100+ members. That list is not decoration — it's the cast pool. They should all appear over the course of a session. Not all at once, but over time, the chat should feel like it has the population it claims.

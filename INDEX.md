@@ -73,6 +73,8 @@
 | `VOICES_LONDON.md` | London Lot voice cards (Freddie, Hugo, Cosima, Lucas, Jonathan, Iris, Lila, Rufus, Raye, Tom Holland) |
 | `VOICES_JUILLIARD.md` | Nora Yoon, Marcus Delacroix, Derrick Washington, Sasha Volkov, Jin Park, plus faculty (Marlowe, Osei, Whitfield) |
 | `VOICES_CHATS.md` | All 10 active group chats — rosters, dynamics, rendering rules, cast rotation protocol |
+| `GROUP_CHAT_ARCHITECTURE.md` | Anti-conflation protocol for group chats — chat gate, cast picker quotas, social-circle boundaries, session speaker rotation |
+| `FRIENDS_CONTACTS_MATRIX.md` | Contact-level membership matrix keyed by chat codes with confidence flags and maintenance rules |
 
 > **Voice files vs profile files:** VOICES_*.md = how they speak (texting style, verbal tics, register). CIRCLE.md / SAYRE_BOYS.md / LONDON_LOT.md / GODPARENTS.md = who they are (backstory, relationship with Alex, current status). Load both types for rich scene play.
 
@@ -167,7 +169,7 @@
 | London townhouse | LONDON.md, ALEX_CORE.md | LONDON_LOT.md, STAFF.md (Mrs. Gable) |
 | Sardinia / Villa Serena | SARDINIA.md, SUMMER.md | LEGACY_SUMMER.md, CIRCLE.md if Circle present |
 | Career meeting with Eleanor | ELEANOR.md, WALKER_HOLDINGS.md | VOICES_CORE.md for Eleanor's voice |
-| Group chat scene | VOICES_CHATS.md | VOICES_*.md for the relevant character group |
+| Group chat scene | VOICES_CHATS.md, GROUP_CHAT_ARCHITECTURE.md, FRIENDS_CONTACTS_MATRIX.md | VOICES_*.md for the relevant character group |
 | Phone render scene | PHONE.md | VOICES_CHATS.md, VOICES_CORE.md for character texting styles |
 | Circle member visit | CIRCLE.md, COMPOUND.md | VOICES_CIRCLE.md for their voice |
 | Media/press situation | MEDIA.md, SCALE.md | PUBLIC_PERCEPTION.md |
