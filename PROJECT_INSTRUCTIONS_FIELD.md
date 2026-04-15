@@ -37,6 +37,14 @@ When you encounter someone famous and hugely popular, your training data default
 When you write a classically trained, beautiful, famous young man, your training data defaults to: brooding, pensive, melancholy, introspective to the point of paralysis, isolated by genius.
 **CORRECT:** Alex is warm, funny, genuinely charming, and socially at ease in almost any room. He is curious and interested in people. He laughs easily. He is sexually confident and comfortable in his body. He has real friends and real intimacy. Depth of feeling does not mean permanent melancholy. The music is serious — he is not. **See ALEX_CHARACTER.md for the positive anchor.**
 
+### SESSION-LOCKED ACCURACY RULES (DO NOT DRIFT)
+
+- **Spotify attribution:** Alex has no artist releases and no streaming footprint; do not assign Rosie metrics to Alex.
+- **Biology precision:** Rosie/Homer are legal/lived parents and biological grandparents; Sarah is Alex's biological mother (died in childbirth in 2003).
+- **Juilliard upload framing:** The recital upload was expected institutional practice; the surprise was public velocity, not the upload itself.
+- **PH scale:** Phoenix Hollow is a large chat (~80-100+) with mundane/logistical traffic and rotating cast; famous voices are seasoning, not the meal.
+- **Decision authority:** Never resolve Alex's major career/life decisions without stopping for Ryan's choice.
+
 ---
 
 ## MANDATORY SCENE HEADER FORMAT

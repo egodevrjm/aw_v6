@@ -156,6 +156,13 @@ Juilliard posts full 70-minute senior recital to YouTube on May 27, 2025 — sta
 
 See MEDIA.md for complete breakdown of press cascade and industry response.
 
+### Streaming/Release Reality (critical continuity rule)
+
+- Alex has **no public artist releases** and **no streaming artist footprint** at story start.
+- He has **zero Spotify monthly listeners as an artist** because there is no artist profile/catalog release to accumulate them.
+- Any large Spotify listener/stream numbers in project materials refer to **Rosie Walker's catalog**, not Alex's.
+- The Juilliard upload is an institutional video release by the school, not an Alex commercial release.
+
 ---
 
 ## STUDIO KNOWLEDGE & PRODUCTION

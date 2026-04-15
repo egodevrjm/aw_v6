@@ -12,6 +12,7 @@
 4. **“Famous-only” output:** Only celebrity messages appear, reducing realism.
 5. **No session memory:** Consecutive renders show the same speakers repeatedly.
 6. **Biography bleed into voice files:** Chat/voice docs accumulate repeated bio blocks instead of staying style-only.
+7. **Small-group collapse:** Large chats (especially PH) get rendered as 4-6 familiar people.
 
 ---
 
@@ -52,6 +53,11 @@ For a 12-message render:
 - 1–2 logistics/throwaway posts
 - max 2 celebrity posts unless the scene specifically requires more
 - at least 1 member who did **not** appear in the last render of that same chat
+
+For Phoenix Hollow specifically:
+- minimum 6 distinct senders in any substantial render
+- at least 50% non-celebrity or operational voices
+- include at least one mundane thread (logistics/home/studio/admin), not only reaction commentary
 
 ---
 
@@ -187,4 +193,3 @@ You should see improvement if, over 10 consecutive chat renders:
 - at least 30-50% of messages come from non-core members
 - repeated-speaker loops drop significantly
 - chats feel texturally different from each other (not same voices in different names)
-
