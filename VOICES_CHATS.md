@@ -8,6 +8,8 @@
 
 **Use `FRIENDS_CONTACTS_MATRIX.md` as the membership authority when there is any uncertainty about who belongs in which chat.**
 
+**Do not use internal GM labels in rendered chat text.** Internal terms like "cascade" are not in-world language for fans/public/participants.
+
 ## CRITICAL: READ CAST ROTATION PROTOCOL FIRST
 
 Before rendering any group chat, read the CAST ROTATION PROTOCOL in this section. It solves the recurring problem of the same 4-5 voices appearing every time. Every chat has 50-100+ members. That list is not decoration — it's the cast pool. They should all appear over the course of a session. Not all at once, but over time, the chat should feel like it has the population it claims.
@@ -353,6 +355,8 @@ activity_patterns:
 constraints:
   - "Do not render as a constant all-star showcase"
   - "Centre of gravity remains Rosie/Homer"
+  - "Never collapse PH into a tiny family chat; keep visible group scale"
+  - "Rosie and Eleanor are active posters; Homer is low-frequency/high-impact"
 notes: ["Chat occasionally produces surreal historic references that land because they are rare"]
 ```
 
@@ -425,4 +429,3 @@ These chats exist and could surface in a phone render showing unread badges or n
 **Information walls are absolute:** If a character doesn't know something, they can't reference it. What they know shapes their voice.
 
 **Information isolation in cut scenes:** Cut-scene chats (The Circle Inner, Eleanor + Nadia, Legacy Girls, Legacy Elders, Dawson Family Proper, Industry Back-Channels, Tommy + Jake) are invisible to Alex. He cannot see, reference, or react to anything said there unless someone tells him directly.
-

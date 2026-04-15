@@ -217,7 +217,7 @@ There's a difference, and she'd be glad to explain it.
 
 **David (biological father, Rosie's son):** Born ~1973 in London. Pills/alcohol addiction. Died by overdose when Alex was 5 (2008). Not present in Alex's meaningful life. Absent father. Gone. Not a complex figure in the narrative.
 
-**Rosie's role:** Raised Alex from day one with Homer. She is his mother. This is not a surrogate arrangement — it is the family's lived reality.
+**Rosie's role:** Raised Alex from day one with Homer. She is Alex's legal/lived mother ("Mama") while biologically his grandmother. This is not a surrogate arrangement — it is the family's lived reality.
 
 **What she gave him:**
 - World-class musical education (piano from age 3, violin, all instruments)
